@@ -3,8 +3,6 @@
  * and open the template in the editor.
  */
 
-
-
 /**
  *
  * @author Nayra Deniz
@@ -19,7 +17,7 @@ public class Main {
 		Account miCuenta;
 		double saldo;
 
-		miCuenta = new Account("Pepa Santana", "3333-1111-99-123456789");
+		miCuenta = new Account("Pepa Santana", "3333-1111-99-123456780");
 
 		try {
 			System.out.println("Ingreso en cuenta");

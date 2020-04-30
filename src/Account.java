@@ -3,8 +3,6 @@
  * and open the template in the editor.
  */
 
-
-
 /**
  *
  * @author Nayra Deniz
@@ -22,7 +20,6 @@ public class Account {
 		this.ccc = cuenta;
 	}
 
-	// Método que me devuelve el saldo disponible en cada momento
 	public double disponible() {
 		return balance;
 	}
